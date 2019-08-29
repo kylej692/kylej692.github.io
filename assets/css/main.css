@@ -1662,4 +1662,11 @@ input, select, textarea {
     	border-radius: 50%;
 	}
 
+	/* Images */
+	#about-image .responsive {
+		max-width: 400px;
+	}
+	#resume .responsive {
+		max-width: 500px;
+	}
 	
