@@ -1656,7 +1656,6 @@ input, select, textarea {
 	.image-cropper {
     	width: 100px;
 		height: 100px;
-		transform: rotate(270deg);
     	position: relative;
     	overflow: hidden;
     	border-radius: 50%;
